@@ -1,4 +1,4 @@
-package httpRequestProcessor;
+package com.example.hp.sharencare.httpRequestProcessor;
 
 /**
  * Created by Hp on 17-Apr-17.

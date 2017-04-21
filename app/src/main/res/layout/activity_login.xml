@@ -7,7 +7,7 @@
     android:background="@drawable/back">
 
     <TextView
-        android:id="@+id/login"
+        android:id="@+id/login2"
         android:layout_width="300sp"
 
         android:layout_height="wrap_content"
@@ -38,7 +38,7 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editText1"
+            android:id="@+id/editName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="55sp"
@@ -67,7 +67,7 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editText2"
+            android:id="@+id/editPassword"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="55sp"
@@ -79,7 +79,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/login"
         android:layout_width="127dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

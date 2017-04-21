@@ -1,4 +1,4 @@
-package ApiConfiguration;
+package com.example.hp.sharencare.apiconfiguration;
 
 /**
  * Created by Hp on 17-Apr-17.
@@ -11,7 +11,8 @@ public class ApiConfiguration {
         return api;
     }
 
-    public void setApi(String api) {
+    public void setApi(String api)
+    {
         this.api = api;
     }
 

@@ -1,4 +1,4 @@
-package Activity;
+package com.example.hp.sharencare.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
